@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# 一个简单的备份脚本
+# 涓涓澶浠借
 
 usage() {
   echo >&2 "usage: $PRG <dir|file>"

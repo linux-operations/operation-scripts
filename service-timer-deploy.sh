@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# 安装service_timer应用
+# 瀹夎service_timer搴旂敤
 
 package=service_timer-0.0.1-SNAPSHOT-distribution.tar.gz	
 download_url='http://ops.pp.cc:3305/jenkins/job/service_timer/lastStableBuild/cc.pp$service_timer/artifact/cc.pp/service_timer/0.0.1-SNAPSHOT/'$package

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# 安装sina-user应用
+# 瀹夎sina-user搴旂敤
 
 package=sina-user-0.0.1-SNAPSHOT-distribution.tar.gz
 project_dir=sina-user
