@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# 瀹夎搴旂敤
+# 安装应用
 package=crm-0.0.1-SNAPSHOT-distribution.tar.gz
 download_url='http://ops.pp.cc:3305/jenkins/job/crm/lastStableBuild/cc.pp.api$crm/artifact/cc.pp.api/crm/0.0.1-SNAPSHOT/'$package
 project_dir=crm

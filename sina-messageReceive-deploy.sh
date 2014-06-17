@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# 瀹夎service_timer搴旂敤
+# 安装service_timer应用
 
 package=sina-messageReceive-0.0.1-SNAPSHOT-distribution.tar.gz
 download_url='http://ops.pp.cc:3305/jenkins/job/sina-messageReceive/lastStableBuild/cc.pp$sina-messageReceive/artifact/cc.pp/sina-messageReceive/0.0.1-SNAPSHOT/'$package
