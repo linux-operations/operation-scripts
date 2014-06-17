@@ -1,0 +1,1 @@
+Nagios的nrpe脚本
